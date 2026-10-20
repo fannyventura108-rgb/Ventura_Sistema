@@ -1,0 +1,12 @@
+VENTURA — EM GEL & CÍLIOS
+Como usar:
+1. Abra o arquivo index.html no Google Chrome, Edge ou Firefox.
+2. A tela inicial será o seu portfólio.
+3. Em Modelos, adicione fotos das unhas feitas.
+4. Em Vendas, registre cada atendimento.
+5. Em Clientes, cadastre suas clientes.
+6. Em Financeiro, registre despesas e acompanhe o saldo.
+7. Os dados ficam salvos no navegador deste computador.
+8. Use o backup JSON para guardar uma cópia dos dados.
+
+O logo enviado foi usado como logotipo e favicon.
